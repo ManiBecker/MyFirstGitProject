@@ -1,2 +1,7 @@
+Add Headline
+
 first-branch text document
 https://github.com/ManiBecker/MyFirstGitProject
+
+2. extend-first-branch.txt
+More lines to extend first-branch.txt
